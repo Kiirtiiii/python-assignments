@@ -1,5 +1,5 @@
 # Python Assignments
-This repoesitory contains Python assignments completed as part of my Python learning journey.
+This repository contains Python assignments completed as part of my Python learning journey.
 ## Topics Covered 
 - Variables and Data Types
 - Conditional Statements

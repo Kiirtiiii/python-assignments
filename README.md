@@ -8,4 +8,4 @@ This repository contains Python assignments completed as part of my Python learn
 - Lists and Dictionaries
 - Basic Python Programs
 
-These assignments were completed using Python and VS code
+These assignments were completed using Python and VS code.
